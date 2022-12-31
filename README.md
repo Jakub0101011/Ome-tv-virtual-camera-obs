@@ -3,13 +3,13 @@
 ## 2. Now turn on Reg. Edit (Registry Editor)
 ![obraz](https://user-images.githubusercontent.com/94227436/197977129-55b3ed62-9bc7-4092-9d0f-8ca95336e55a.png)
 
-## 3. Copy code 1 at the bottom and paste it in Reg Edit (do not delete: `Computer\`)
+## 3. Copy [code 1](https://github.com/pokczampDev/Ome-tv-virtual-camera-obs/edit/main/README.md#code-1) at the bottom and paste it in Reg Edit (do not delete: `Computer\`)
 ![obraz](https://user-images.githubusercontent.com/94227436/197977290-bb3e8c65-1980-4e8b-b438-0fe8d4a5a477.png)
 
 ## 3.2 Now Double click on "FriendlyName" and change it to "HD Webcam C290"
 ![obraz](https://user-images.githubusercontent.com/94227436/197979741-1bebf6c3-a839-4a94-a8e8-f4d7972e8b47.png)
 
-## 4. Now copy code 2 at the bottom and do the same as for section 3.2
+## 4. Now copy [code 2](https://github.com/pokczampDev/Ome-tv-virtual-camera-obs/edit/main/README.md#code-2) at the bottom and do the same as for [section 3.2](https://github.com/pokczampDev/Ome-tv-virtual-camera-obs/edit/main/README.md#32-now-double-click-on-friendlyname-and-change-it-to-hd-webcam-c290)
 ![obraz](https://user-images.githubusercontent.com/94227436/197977983-dfa5f3bf-2402-4d47-a080-060dccfae888.png)
 ![obraz](https://user-images.githubusercontent.com/94227436/197979881-2b102650-3d03-494c-b557-b8dc72c40a37.png)
 
